@@ -1,7 +1,10 @@
 ## Getting Started
 
+### 1. Cloning the Repository
+ 
+ git clone https://github.com/Aakashpspk17/crypto-UI-Dashboard
 
-### 1. Installing Next.Js 
+### 2. Installing Next.Js 
    
    // with npm
    
@@ -12,7 +15,7 @@
    yarn add next react react-dom
    
    
-### 2. Installing Material.UI
+### 3. Installing Material.UI
   
   // with npm
    
@@ -22,7 +25,7 @@
   
   yarn add @material-ui/core
 
-### 3. Running the Development Server
+### 4. Running the Development Server
 
   // with npm
    
