@@ -39,3 +39,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 https://crypto-ui-dashboard.vercel.app/
+
+
+### Screenshot
+
+(https://github.com/Aakashpspk17/crypto-UI-Dashboard/blob/main/images/Crypto-UI.png?raw=true)
