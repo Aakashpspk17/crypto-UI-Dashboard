@@ -2,7 +2,10 @@
 
 ### 1. Cloning the Repository
  
- git clone https://github.com/Aakashpspk17/crypto-UI-Dashboard
+ 1. git clone https://github.com/Aakashpspk17/crypto-UI-Dashboard
+ 
+ 2. Delete package-lock.JSON  
+ 
 
 ### 2. Installing Next.Js 
    
