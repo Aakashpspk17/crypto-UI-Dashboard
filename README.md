@@ -43,4 +43,4 @@ https://crypto-ui-dashboard.vercel.app/
 
 ### Screenshot
 
-(https://github.com/Aakashpspk17/crypto-UI-Dashboard/blob/main/images/Crypto-UI.png?raw=true)
+![](https://github.com/Aakashpspk17/crypto-UI-Dashboard/blob/main/images/Crypto-UI.png)
